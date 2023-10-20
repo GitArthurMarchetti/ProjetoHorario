@@ -4,4 +4,4 @@ Uma página muito basica, onde dependendo do horário em que atualizado mostra u
 
 ## Deploy da Aplicação:
 
-> https://gitarthurmarchetti.github.io/login_e_senha/
+> https://gitarthurmarchetti.github.io/ProjetoHorario/
